@@ -36,8 +36,10 @@ https://static1.squarespace.com/static/66627dabf7b72f0d137f876e/t/666ddd0eb784aa
 ### technical documentation
 "Procedure for Skills Expertise Annotation"
 [Procedure for Skills Expertise Annotation 2.pdf](https://github.com/user-attachments/files/22802729/Procedure.for.Skills.Expertise.Annotation.2.pdf)
+
 "Error Cases for French Skill Terms"
 [Error Cases for French Skill Terms.pdf](https://github.com/user-attachments/files/22803009/Error.Cases.for.French.Skill.Terms.pdf)
+
 
 
 
