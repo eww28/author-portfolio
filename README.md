@@ -12,18 +12,26 @@ Welcome! I'm Erica Weems, a writer and language architect.
 ### blog & commentary
 "Subtitle Translation in French: Wordplay and Machine Translation" 
 https://ai.glossika.com/blog/subtitle-translation-in-french-wordplay-and-machine-translation
+
 "Top 5 Famous French Monuments in Film"
 https://ai.glossika.com/blog/french-monuments-in-film
 
 ### fiction
+"Torrents"
+https://foofaraw.press/torrents/
+
 "Wind"
 https://therazormag.com/articles/wind/
+
 "Interrupted Joke"
 https://superpresent.org/wp-content/uploads/2024/06/V4N3-pdf.pdf
+
 "The Divine Bottle"
 https://heyzine.com/flip-book/2e725f91b5.html#page/16
+
 "Promenade"
 https://static1.squarespace.com/static/66627dabf7b72f0d137f876e/t/666ddd0eb784aa30c3e04f65/1718476047196/Fall+23+-+Erica+Weems.pdf
+
 
 ### technical documentation
 "Procedure for Skills Expertise Annotation"
