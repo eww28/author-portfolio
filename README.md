@@ -31,11 +31,12 @@ https://heyzine.com/flip-book/2e725f91b5.html#page/16
 
 "Promenade"
 https://static1.squarespace.com/static/66627dabf7b72f0d137f876e/t/666ddd0eb784aa30c3e04f65/1718476047196/Fall+23+-+Erica+Weems.pdf
+[Procedure for Skills Expertise Annotation 3.pdf](https://github.com/user-attachments/files/24919966/Procedure.for.Skills.Expertise.Annotation.3.pdf)
 
 
 ### technical documentation
 "Procedure for Skills Expertise Annotation"
-[Procedure for Skills Expertise Annotation 3.pdf](https://github.com/user-attachments/files/24919943/Procedure.for.Skills.Expertise.Annotation.3.pdf)
+
 
 
 "Error Cases for French Skill Terms"
