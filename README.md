@@ -36,6 +36,7 @@ https://static1.squarespace.com/static/66627dabf7b72f0d137f876e/t/666ddd0eb784aa
 
 ### technical documentation
 "Procedure for Skills Expertise Annotation"
+[Procedure for Skills Expertise Annotation 3.pdf](https://github.com/user-attachments/files/24926487/Procedure.for.Skills.Expertise.Annotation.3.pdf)
 
 
 
