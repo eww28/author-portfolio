@@ -17,6 +17,9 @@ https://ai.glossika.com/blog/subtitle-translation-in-french-wordplay-and-machine
 https://ai.glossika.com/blog/french-monuments-in-film
 
 ### fiction
+"Office Hours"
+https://www.roifaineantpress.com/post/office-hours-by-erica-w-weems
+
 "Torrents"
 https://foofaraw.press/torrents/
 
