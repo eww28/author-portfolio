@@ -17,6 +17,12 @@ https://ai.glossika.com/blog/subtitle-translation-in-french-wordplay-and-machine
 https://ai.glossika.com/blog/french-monuments-in-film
 
 ### fiction
+"Sundown"
+https://drive.google.com/file/d/16HEMWQLqUXx-hKfFC8WXAm1jCATXHUmq/view
+
+"Encomium Virginiæ"
+https://drive.google.com/file/d/1CCaU1D7hncb6tgmsnD3YK41wKq-9ZB1s/view
+
 "Office Hours"
 https://www.roifaineantpress.com/post/office-hours-by-erica-w-weems
 
