@@ -17,6 +17,9 @@ https://ai.glossika.com/blog/subtitle-translation-in-french-wordplay-and-machine
 https://ai.glossika.com/blog/french-monuments-in-film
 
 ### fiction
+“Severance"
+https://www.faoileanachjournal.com/read
+
 "Sundown"
 https://drive.google.com/file/d/16HEMWQLqUXx-hKfFC8WXAm1jCATXHUmq/view
 
